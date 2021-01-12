@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: https://collegefootball.onrender.com/sitemap.xml

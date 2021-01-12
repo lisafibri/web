@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: https://ezrecipes.onrender.com/sitemap.xml
