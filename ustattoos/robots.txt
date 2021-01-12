@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: https://ustattoos.onrender.com/sitemap.xml
