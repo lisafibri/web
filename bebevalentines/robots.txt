@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: https://bebevalentines.onrender.com/sitemap.xml
