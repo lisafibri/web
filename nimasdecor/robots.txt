@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: https://nimasdecor.onrender.com/sitemap.xml
