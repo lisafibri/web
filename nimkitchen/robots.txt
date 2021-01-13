@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: https://nimkitchen.onrender.com/sitemap.xml
