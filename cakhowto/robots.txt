@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: https://cakhowto.onrender.com/sitemap.xml
